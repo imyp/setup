@@ -9,3 +9,7 @@ Programs, settings and scripts that I use for my working computer environment.
 - [Git](https://gitforwindows.org/)
 - [Miniconda](https://docs.conda.io/en/latest/miniconda.html#latest-miniconda-installer-links)
 - [Vim](https://www.vim.org/download.php)
+
+## Todo
+- [ ] Add VSCode settings.
+- [ ] Add Windows Terminal settings.
